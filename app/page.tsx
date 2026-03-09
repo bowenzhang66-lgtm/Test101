@@ -20,12 +20,12 @@ export default function Home() {
 
         {/* 姓名 */}
         <h1 className="text-4xl font-bold text-black dark:text-zinc-50 mb-6">
-          ChamberZ
+          Charlie
         </h1>
 
         {/* 自我介绍 */}
         <p className="text-xl text-zinc-600 dark:text-zinc-400 text-center leading-relaxed">
-          我是ChamberZ，我有只小老鼠叫Charlie。
+          我是Charlie，我是一只小老鼠，老鼠老鼠老鼠
         </p>
       </main>
     </div>
